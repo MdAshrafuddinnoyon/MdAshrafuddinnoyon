@@ -9,14 +9,13 @@ I can do almost each and every kind of website design and development according 
 
 I decipher your business to make stunning and glowing websites. Working as a Professional WordPress & e-commerce expert since 2021 and completed a large number of web projects at various marketplaces
 
-✔Thank you so much for visiting my portfolio
-
-✔Skills: HTML / CSS / WordPress / Responsive Web Design / Elementor & Elementor Pro / Landing Page Design / Theme Customize / PSD to WordPress Website Design with Elementor / WooCommerce Store Creation. / WP YOAST SEO / Backup & Migration / Canva Photoshop
-
 - 🔭 I’m currently working on Codmanbd 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Website Designer | WordPress & E-commerce Expert 
+
+
+✔Skills: HTML / CSS / WordPress / Responsive Web Design / Elementor & Elementor Pro / Landing Page Design / Theme Customize / PSD to WordPress Website Design with Elementor / WooCommerce Store Creation. / WP YOAST SEO / Backup & Migration / Canva Photoshop
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MdAshrafuddinnoyon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-ashraf-uddin-noyon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/fmaun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Mdashraf_uddin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC4OLzvZK78tO8ZHbQKaDMfg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://www.fmaun.com)  
@@ -32,3 +31,6 @@ I decipher your business to make stunning and glowing websites. Working as a Pro
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/MdAshrafuddinnoyon)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/MdAshrafuddinnoyon)  
+
+
+✔Thank you so much for visiting my portfolio
