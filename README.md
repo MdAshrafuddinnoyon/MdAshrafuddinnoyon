@@ -9,9 +9,9 @@ I can do almost each and every kind of website design and development according 
 
 I decipher your business to make stunning and glowing websites. Working as a Professional WordPress & e-commerce expert since 2021 and completed a large number of web projects at various marketplaces
 
-Thank you so much for visiting my portfolio
+✔Thank you so much for visiting my portfolio
 
-Skills: HTML / CSS / WordPress / Responsive Web Design / Elementor & Elementor Pro / Landing Page Design / Theme Customize / PSD to WordPress Website Design with Elementor / WooCommerce Store Creation. / WP YOAST SEO / Backup & Migration / Canva Photoshop
+✔Skills: HTML / CSS / WordPress / Responsive Web Design / Elementor & Elementor Pro / Landing Page Design / Theme Customize / PSD to WordPress Website Design with Elementor / WooCommerce Store Creation. / WP YOAST SEO / Backup & Migration / Canva Photoshop
 
 - 🔭 I’m currently working on Codmanbd 
 - 🌱 I’m currently learning JavaScript 
