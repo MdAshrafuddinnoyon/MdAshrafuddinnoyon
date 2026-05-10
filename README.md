@@ -286,7 +286,7 @@ fun_fact: From mobile phone repair instructor → AI agency CEO 🚀
 
 <div align="center">
 
-![Snake animation]([https://raw.githubusercontent.com/MdAshrafuddinnoyon/MdAshrafuddinnoyon/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg))
+![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
 </div>
 
