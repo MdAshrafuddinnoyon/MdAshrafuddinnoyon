@@ -1,8 +1,8 @@
 <!-- =============================================== -->
-<!--      ANIMATED HEADER WITH WAVE & GRADIENT       -->
+<!--      ANIMATED HEADER BANNER                     -->
 <!-- =============================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:E94560&height=300&section=header&text=MD%20Ashraf%20Uddin%20Noyon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20WebSearchBD%20%E2%80%A2%20WordPress%20%2B%20AI%20Developer&descAlignY=58&descSize=20&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:E94560&height=300&section=header&text=Md%20Ashraf%20Uddin%20Noyon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20WebSearchBD%20%E2%80%A2%20WordPress%20%2B%20AI%20Developer&descAlignY=58&descSize=20&descAlign=50)
 
 <!-- =============================================== -->
 <!--           TYPING ANIMATION                       -->
@@ -14,15 +14,7 @@
 
 </div>
 
-<!-- =============================================== -->
-<!--           HOLOGRAPHIC GIF DIVIDER                -->
-<!-- =============================================== -->
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
+<br/>
 
 <!-- =============================================== -->
 <!--           PROFILE BADGES                         -->
@@ -43,201 +35,131 @@
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           ABOUT ME SECTION                       -->
-<!-- =============================================== -->
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+```yaml
+name: Md Ashraf Uddin Noyon
+role: Founder & CEO @ WebSearchBD Ltd.
+location: Chattogram, Bangladesh 🇧🇩
+experience: 5+ years
+team_size: 10 professionals
+clients: 322+ across 19+ countries
+projects_delivered: 350+
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> About Me
+specialties:
+  - WordPress Development & Custom Themes
+  - AI Web Apps (Lovable.dev, Cursor, V0.dev, Bolt.new)
+  - E-commerce & Print-on-Demand Automation
+  - n8n Workflow Automation
+  - Cybersecurity & Hacked Site Recovery
+  - Server Management & DevOps
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20"> I'm **Md Ashraf Uddin Noyon** — Founder & CEO of **Web Search BD Ltd.**
+currently_building:
+  - AI-powered SaaS apps with Lovable.dev
+  - Automated e-commerce stores
 
-<img src="https://user-images.githubusercontent.com/74038190/216122071-1a2bbb35-8ef9-4d1c-b5df-fc77f5dde067.png" width="20"> Building modern web solutions for global brands from **Chattogram, Bangladesh** 🇧🇩
+learning:
+  - Claude Code & Model Context Protocol (MCP)
+  - Advanced AI Agent Development
+  - Next.js 15 + React Server Components
 
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c1d40b5-8f4d-4c20-b82f-cb8ed95d87a2.png" width="20"> Leading a **10-person team** delivering WordPress sites, AI apps, e-commerce stores & cybersecurity solutions
+ask_me_about:
+  - WordPress, Lovable.dev, n8n
+  - Hacked WordPress site recovery
+  - E-commerce automation strategies
 
-### 🎯 What I Do Best
-
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **WordPress Development** — Custom themes, Elementor Pro, Crocoblock, plugin dev<br/>
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **AI Web Apps** — Lovable.dev, Cursor AI, V0.dev, Bolt.new, Replit AI<br/>
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **E-commerce & POD** — WooCommerce, Shopify, Printful/Printify automation<br/>
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **n8n Automation** — Workflows, AI agents, ChatGPT integrations<br/>
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **Cybersecurity** — Hacked site recovery, malware removal, security hardening<br/>
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4b65-9b1d-d89cc1a52100.png" width="20"> **Server Management** — Hostinger, SiteGround, Cloudways, GoDaddy
-
-<br/>
-
-```javascript
-const ashraf = {
-    role: "Founder & CEO @ WebSearchBD",
-    location: "Chattogram, Bangladesh 🇧🇩",
-    experience: "5+ years",
-    currentlyBuilding: ["AI SaaS Apps", "E-commerce Automation"],
-    learning: ["Claude Code", "MCP", "AI Agent Development"],
-    askMeAbout: ["WordPress", "Lovable.dev", "n8n", "Cybersecurity"],
-    funFact: "From mobile phone repair instructor → AI agency CEO 🚀"
-};
+fun_fact: From mobile phone repair instructor → AI agency CEO 🚀
 ```
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- =============================================== -->
-<!--           STATS HIGHLIGHT                        -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216655849-d6b3a832-f8b9-49ef-99b4-1b1f7e1c6d77.png" width="35"> By The Numbers
+## 📊 By The Numbers
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <h2>5+</h2>
-      <b>Years Experience</b>
-    </td>
-    <td align="center" width="20%">
-      <h2>350+</h2>
-      <b>Projects Delivered</b>
-    </td>
-    <td align="center" width="20%">
-      <h2>322+</h2>
-      <b>Happy Clients</b>
-    </td>
-    <td align="center" width="20%">
-      <h2>19+</h2>
-      <b>Countries Served</b>
-    </td>
-    <td align="center" width="20%">
-      <h2>$3.8K+</h2>
-      <b>Lovable.dev Earnings</b>
-    </td>
-  </tr>
-</table>
+|  ⏱️ Years  |  🚀 Projects  |  💼 Clients  |  🌍 Countries  |  💰 Lovable.dev  |
+|:----------:|:-------------:|:------------:|:--------------:|:----------------:|
+|   **5+**   |   **350+**    |   **322+**   |    **19+**     |   **$3.8K+**     |
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           CURRENT FOCUS                          -->
-<!-- =============================================== -->
+## 🛠️ Tech Stack
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122071-1a2bbb35-8ef9-4d1c-b5df-fc77f5dde067.png" width="35"> What I'm Up To
-
-<img align="right" alt="AI Development" width="350" src="https://user-images.githubusercontent.com/74038190/238200426-29fd8438-7146-4e23-8635-67d42b5092c1.gif" />
-
-🔭 **Currently Building:**
-- AI-powered SaaS apps with Lovable.dev
-- Automated e-commerce stores with print-on-demand
-- n8n workflows for client businesses
-
-🌱 **Currently Learning:**
-- Claude Code & Model Context Protocol (MCP)
-- Advanced AI Agent development
-- Next.js 15 with React Server Components
-
-👯 **Open to Collaborate On:**
-- WordPress plugins & themes
-- AI development projects
-- Open-source contributions
-
-💬 **Ask Me About:**
-- WordPress, Lovable.dev, n8n
-- Hacked WordPress site recovery
-- E-commerce automation strategies
-
-⚡ **Fun Fact:** I shipped a complete SaaS MVP in 5 days using Lovable.dev
-
-<br clear="right"/>
-
-<br/>
-
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- =============================================== -->
-<!--           TECH STACK                             -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c1d40b5-8f4d-4c20-b82f-cb8ed95d87a2.png" width="35"> Tech Stack & Tools
-
+### Languages & Core
 <div align="center">
 
-### 💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,nodejs,react,ts" />
-
-### 🌐 CMS & Platforms
-<p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-</p>
-
-### 🤖 AI & Modern Development
-<p>
-<img src="https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bolt.new-1F1F1F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Replit%20AI-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windsurf-00ADB5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-### ☁️ Hosting & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,cloudflare,aws,gcp" />
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
-<img src="https://img.shields.io/badge/SiteGround-FF7900?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudways-2D6CDF?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🎨 Design & Productivity
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
-
-### ⚙️ Tools & Other
-<img src="https://skillicons.dev/icons?i=vscode,postman,vite,tailwind,bootstrap,wordpress" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
-<br/>
+### CMS & Platforms
+<div align="center">
 
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-<br/>
+### AI & Modern Development
+<div align="center">
 
-<!-- =============================================== -->
-<!--           GITHUB STATS                           -->
-<!-- =============================================== -->
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logoColor=white)
+![V0.dev](https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-1F1F1F?style=for-the-badge&logoColor=white)
+![Replit AI](https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00ADB5?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655831-72b04713-66c8-44ce-8aa9-c0aa1f10d04b.png" width="35"> GitHub Statistics
+</div>
+
+### Hosting & DevOps
+<div align="center">
+
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![SiteGround](https://img.shields.io/badge/SiteGround-FF7900?style=for-the-badge&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
+![Cloudways](https://img.shields.io/badge/Cloudways-2D6CDF?style=for-the-badge&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### Design & Creative Tools
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -246,27 +168,19 @@ const ashraf = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAshrafuddinnoyon&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 </a>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAshrafuddinnoyon&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=E94560&fire=F39C12&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdAshrafuddinnoyon&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=E94560&point=F39C12&area=true&area_color=00D9FF)](https://github.com/MdAshrafuddinnoyon)
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           TROPHY                                 -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216655814-c9147cb2-1760-4af4-b2cd-45360a4dc73b.png" width="35"> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -274,129 +188,101 @@ const ashraf = {
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
+## 🎖️ Professional Achievements
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
 
-<br/>
+| Achievement | Description |
+|:-----------:|:-----------|
+| 🥇 **Upwork Rising Talent** | Maintained for **5+ consecutive years** |
+| 🥈 **Fiverr Level 2** | Former Level 2 Seller with consistent 5-star reviews |
+| 🚀 **Lovable.dev Pioneer** | **$3,800+** revenue from AI projects |
+| 📊 **Google Certified** | Analytics IQ + 5 Google Ads certifications |
+| 🎓 **Certiprof 2025** | Prompt Engineering, BI, Business Agility, Remote Work |
+| 🌍 **Global Reach** | **322+ clients** across **19+ countries** |
+| 💼 **Founder & CEO** | Leading 10-person team at WebSearchBD Ltd. |
+| 🤖 **AI-First Developer** | Early adopter of modern AI dev platforms |
 
-<!-- =============================================== -->
-<!--           ACHIEVEMENTS                           -->
-<!-- =============================================== -->
+</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216655854-9ad62ab3-9f0d-4e63-a76b-cba2e5ce1b14.png" width="35"> Professional Achievements
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"/>
-      <h3>🥇 Upwork Rising Talent</h3>
-      <p>Maintained Rising Talent badge for <strong>5+ consecutive years</strong></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"/>
-      <h3>🥈 Fiverr Level 2</h3>
-      <p>Former Fiverr Level 2 Seller with consistent 5-star reviews</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216122003-1c1d40b5-8f4d-4c20-b82f-cb8ed95d87a2.png" width="50"/>
-      <h3>🚀 Lovable.dev Pioneer</h3>
-      <p><strong>$3,800+</strong> revenue from Lovable.dev AI projects</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655849-d6b3a832-f8b9-49ef-99b4-1b1f7e1c6d77.png" width="50"/>
-      <h3>📊 Google Certified</h3>
-      <p>Analytics IQ + 5 Google Ads certifications (verified)</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655831-72b04713-66c8-44ce-8aa9-c0aa1f10d04b.png" width="50"/>
-      <h3>🎓 Certiprof 2025</h3>
-      <p>Prompt Engineering, BI, Business Agility, Remote Work</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655814-c9147cb2-1760-4af4-b2cd-45360a4dc73b.png" width="50"/>
-      <h3>🌍 Global Reach</h3>
-      <p><strong>322+ clients</strong> across <strong>19+ countries</strong></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- =============================================== -->
-<!--           SERVICES                               -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="35"> Services I Offer
+## 💼 What I Build
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>🌐 WordPress Development</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238200428-cbd58927-acca-4ddf-bc40-159ea1d27d04.gif" width="180"/>
-      <p>Custom themes, Elementor Pro mastery, plugin development, PSD/Figma/XD to WordPress, WooCommerce stores, multi-vendor marketplaces (Dokan).</p>
+      <ul>
+        <li>Custom theme development from scratch</li>
+        <li>Elementor Pro & Crocoblock mastery</li>
+        <li>Plugin development & customization</li>
+        <li>PSD/Figma/XD to WordPress conversions</li>
+        <li>WooCommerce stores & multi-vendor (Dokan)</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>🤖 AI Web Development</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd8438-7146-4e23-8635-67d42b5092c1.gif" width="180"/>
-      <p>Lovable.dev, Cursor AI, V0.dev, Bolt.new, Replit AI Agent. Rapid MVPs, SaaS prototyping, hybrid AI-to-production solutions.</p>
+      <ul>
+        <li>Lovable.dev production apps ($3,800+ revenue)</li>
+        <li>Cursor AI, V0.dev, Bolt.new development</li>
+        <li>Replit AI Agent & Vercel v0</li>
+        <li>Rapid MVP & SaaS prototyping</li>
+        <li>Hybrid AI-to-production solutions</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>🛒 E-Commerce & POD</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238200431-6f1d20a4-755b-4be7-a4f1-7c5e9d927f06.gif" width="180"/>
-      <p>WooCommerce, Shopify, Webflow, Squarespace stores. Print-on-Demand automation with Printful & Printify. Automated sales funnels.</p>
+      <ul>
+        <li>WooCommerce, Shopify, Webflow stores</li>
+        <li>Print-on-Demand automation (Printful/Printify)</li>
+        <li>Automated sales funnels</li>
+        <li>Abandoned cart recovery systems</li>
+        <li>AI-powered upsells & recommendations</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>⚙️ n8n Automation</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238200427-3f3df1c2-a30d-401d-bdb9-7e6997a83a89.gif" width="180"/>
-      <p>Custom business workflows, AI agent chains, ChatGPT integrations, lead qualification systems, API orchestration.</p>
+      <ul>
+        <li>Custom business workflow automation</li>
+        <li>AI agent chains & API orchestration</li>
+        <li>ChatGPT integrations & chatbots</li>
+        <li>Lead qualification systems</li>
+        <li>Webhook & multi-step workflows</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h3>🔒 Cybersecurity</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="180"/>
-      <p>Hacked WordPress site recovery, malware removal, Google Blacklist recovery, security hardening (2FA, firewall, CAPTCHA).</p>
+      <ul>
+        <li>Hacked WordPress site recovery</li>
+        <li>Malware removal (PHP, JS, .htaccess)</li>
+        <li>Google Blacklist recovery</li>
+        <li>Security hardening (2FA, firewall, CAPTCHA)</li>
+        <li>SSL setup & vulnerability patching</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <h3>☁️ Server Management</h3>
-      <img src="https://user-images.githubusercontent.com/74038190/238353450-872ce0c8-1cdb-4a76-b8a4-189e1ad3df60.gif" width="180"/>
-      <p>Hostinger, SiteGround, GoDaddy, Cloudways, Kinsta. DNS, server migration, SSL setup, Cloudflare CDN, performance.</p>
+    <td width="50%">
+      <h3>☁️ Server & Hosting</h3>
+      <ul>
+        <li>Hostinger, SiteGround, GoDaddy, Cloudways</li>
+        <li>Server migration with zero downtime</li>
+        <li>DNS, SSL, Cloudflare CDN setup</li>
+        <li>Local dev (XAMPP, LocalWP, Docker)</li>
+        <li>Email setup (Workspace, Zoho, cPanel)</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- =============================================== -->
-<!--           SNAKE ANIMATION                        -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a6da-d7c1a4a9e9b6.png" width="35"> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -404,17 +290,15 @@ const ashraf = {
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           CONNECT                                -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f4d3a40-bd28-4ea4-bd7c-58cd6358e2bb.png" width="35"> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting collaborations, freelance projects, and conversations about WordPress, AI development, and modern web tools. **Drop me a message — I personally read every email!**
+I'm always open to interesting collaborations, freelance projects, and conversations about WordPress, AI development, and modern web tools.
+
+**📧 Drop me a message — I personally read every email!**
 
 <br/>
 
@@ -442,13 +326,9 @@ I'm always open to interesting collaborations, freelance projects, and conversat
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           HIRE ME / SUPPORT                      -->
-<!-- =============================================== -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/216655799-f15ddec8-ca87-403b-8a02-e7f1f10b4c2f.png" width="35"> Hire Me
+## 💼 Hire Me
 
 <div align="center">
 
@@ -464,43 +344,25 @@ I'm always open to interesting collaborations, freelance projects, and conversat
 
 </div>
 
-<br/>
+---
 
-<!-- =============================================== -->
-<!--           QUOTE                                  -->
-<!-- =============================================== -->
+## 💭 Random Dev Quote
 
 <div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"> Random Dev Quote
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<br/>
-
-<!-- =============================================== -->
-<!--           NEON DIVIDER                           -->
-<!-- =============================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- =============================================== -->
-<!--           THANK YOU SECTION                      -->
-<!-- =============================================== -->
+---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc11f1b-8b25-4dba-8b4d-f0e5b6b6c5c9.gif" width="200"/>
 
 ### ⚡ "From WordPress to AI — Building the modern web, one project at a time." ⚡
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Don't+forget+to+%E2%AD%90+my+repos!;Have+a+great+day!+%E2%9C%A8" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Don't+forget+to+%E2%AD%90+my+repos!;Have+a+great+day!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
