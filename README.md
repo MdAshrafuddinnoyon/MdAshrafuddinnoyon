@@ -1,12 +1,4 @@
-<!-- =============================================== -->
-<!--      ANIMATED HEADER BANNER                     -->
-<!-- =============================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:E94560&height=300&section=header&text=Md%20Ashraf%20Uddin%20Noyon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%40%20WebSearchBD%20%E2%80%A2%20WordPress%20%2B%20AI%20Developer&descAlignY=58&descSize=20&descAlign=50)
-
-<!-- =============================================== -->
-<!--           TYPING ANIMATION                       -->
-<!-- =============================================== -->
 
 <div align="center">
 
