@@ -43,7 +43,7 @@
 name: Md Ashraf Uddin Noyon
 role: Founder & CEO @ WebSearchBD Ltd.
 location: Chattogram, Bangladesh 🇧🇩
-experience: 5+ years
+experience: 7+ years
 team_size: 10 professionals
 clients: 322+ across 19+ countries
 projects_delivered: 350+
@@ -81,7 +81,7 @@ fun_fact: From mobile phone repair instructor → AI agency CEO 🚀
 
 |  ⏱️ Years  |  🚀 Projects  |  💼 Clients  |  🌍 Countries  |  💰 Lovable.dev  |
 |:----------:|:-------------:|:------------:|:--------------:|:----------------:|
-|   **5+**   |   **350+**    |   **322+**   |    **19+**     |   **$3.8K+**     |
+|   **7+**   |   **350+**    |   **322+**   |    **19+**     |   **$3.8K+**     |
 
 </div>
 
